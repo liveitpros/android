@@ -725,4 +725,12 @@
     <string name="dev_version_no_information_available">No information available.</string>
     <string name="dev_version_no_new_version_available">No new version available.</string>
     <string name="folder_icon">Folder icon</string>
+    <string name="notification_channel_upload_name">Upload notification channel</string>
+    <string name="notification_channel_download_name">Download notification channel</string>
+    <string name="notification_channel_download_description">Shows download progress</string>
+    <string name="notification_channel_upload_description">Shows upload progress</string>
+    <string name="notification_channel_media_name">Media player</string>
+    <string name="notification_channel_media_description">Music player progress</string>
+    <string name="notification_channel_file_sync_name">File sync</string>
+    <string name="notification_channel_file_sync_description">Shows file sync progress and results</string>
 </resources>
